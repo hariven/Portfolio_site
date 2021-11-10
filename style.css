@@ -257,7 +257,7 @@ header {
     flex: 1;
     padding: 20px 55px;
     /* margin-right: 220px; */
-    font-family: 'Palette Mosaic', cursive;
+    font-family: 'Palette Mosaic';
     box-shadow: brown;
     z-index: 2;
     box-shadow: rgba(1, 0, 0, 0.6);
